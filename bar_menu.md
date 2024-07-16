@@ -70,6 +70,7 @@
  - 1/2 oz cream of coconut
  - 1 1/2 oz pineapple juice
  - 1/2 oz lime juice
+ - add about 6 ounces of pebble ice, shake and pour.
 
 ## Gin
 
@@ -94,10 +95,16 @@
  - 5 white grapes muddled
 
 ### Green Lady
- - 1 1/2 gin
+ - 1 1/2 oz gin
  - 1/2 oz green Chartreuse
  - 1/2 oz lime juice
  - 1/2 oz egg white
+
+### Royal Hawaiian
+ - 2 oz gin
+ - 3/4 oz pineapple juice
+ - 3/4 oz lemon juice
+ - 1/2 oz orgeat
 
 ## Whiskey
 
@@ -112,7 +119,7 @@
 ### Sour Template
  - 2 oz spirit
  - 3/4 oz fresh lemon juice
- - 1/2 oz simple syrup
+ - 1/4 oz simple syrup
  - 3/4 egg white
  - 2 to 3 drops Angostura bitters, optional
 
@@ -124,6 +131,6 @@
 ### Smash Template
  - 2 oz spirit
  - 6 leaves herb
- - 1/2 oz syrup
+ - 1/4 oz syrup
  - 1/2 oz lemon juice
  - Muddle the lemon wedges in a shaker. Add spirit, simple syrup, herbs and ice, and shake until well-chilled,
