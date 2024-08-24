@@ -72,6 +72,13 @@
  - 1/2 oz lime juice
  - add about 6 ounces of pebble ice, shake and pour.
 
+### Wordsmith
+Obviously a Run Last Word
+ - 3/4 oz Jamaican Overprood Rum (Don't wuss out)
+ - 3/4 oz Green Chartreuse
+ - 3/4 oz Maraschino liqueur
+ - 3/4 oz lime juice
+
 ## Gin
 
 ### Last Word
@@ -120,7 +127,7 @@
  - 2 oz spirit
  - 3/4 oz fresh lemon juice
  - 1/4 oz simple syrup
- - 3/4 egg white
+ - 3/4 oz egg white
  - 2 to 3 drops Angostura bitters, optional
 
 ### Mule Template
