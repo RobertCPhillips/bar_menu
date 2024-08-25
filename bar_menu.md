@@ -73,8 +73,8 @@
  - add about 6 ounces of pebble ice, shake and pour.
 
 ### Wordsmith
-Obviously a Run Last Word
- - 3/4 oz Jamaican Overprood Rum (Don't wuss out)
+Obviously a Rum Last Word
+ - 3/4 oz Jamaican Overprood Rum
  - 3/4 oz Green Chartreuse
  - 3/4 oz Maraschino liqueur
  - 3/4 oz lime juice
