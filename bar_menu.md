@@ -37,7 +37,14 @@
  - 1 oz aged Martinique Rhum 
  - 1 oz Lime Juice 
  - 1/2 oz Dry Curacao 
- - 1/2 oz Orgeat 
+ - 1/2 oz Orgeat
+
+### Well Oiled Mai Tai
+ - 2 oz rum
+ - 1/4 oz falernum
+ - 1/2 oz orgeat
+ - 3/4 oz lime juice
+ - 2 dash angostura bitters
 
 ### Daiquiri
  - 2 oz light rum
@@ -112,6 +119,11 @@ Obviously a Rum Last Word
  - 3/4 oz pineapple juice
  - 3/4 oz lemon juice
  - 1/2 oz orgeat
+
+### Gin F
+ - 1 oz gin
+ - 1 1/2 falernum
+ - 1/2 lime juice
 
 ## Whiskey
 
