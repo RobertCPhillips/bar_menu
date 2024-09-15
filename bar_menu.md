@@ -131,10 +131,10 @@ Obviously a Rum Last Word
  - 1 1/2 oz falernum
  - 1/2 oz lime juice
 
-### Bramble
- - 1 1/2 oz gin
- - 3/4 oz lemon juice
- - float 1/2 oz blackberry / rasberry liqueur
+### Chambord Bramble
+ - 1 oz gin
+ - 1 oz lemon juice
+ - float 1 oz chambord
 
 ## Whiskey
 
