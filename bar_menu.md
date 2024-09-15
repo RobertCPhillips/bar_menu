@@ -35,9 +35,9 @@
 ### 1944 Mai Tai
  - 1 oz aged Jamaican Rum 
  - 1 oz aged Martinique Rhum 
- - 1 oz Lime Juice 
- - 1/2 oz Dry Curacao 
- - 1/2 oz Orgeat
+ - 1 oz lime juice 
+ - 1/2 oz dry curacao 
+ - 1/2 oz orgeat
 
 ### Well Oiled Mai Tai
  - 2 oz rum
@@ -114,6 +114,12 @@ Obviously a Rum Last Word
  - 1/2 oz lime juice
  - 1/2 oz egg white
 
+### White Lady
+ - 2 oz gin
+ - 1/2 oz orange liqueur 
+ - 3/4 oz lemon juice
+ - 1/2 oz egg white
+
 ### Royal Hawaiian
  - 2 oz gin
  - 3/4 oz pineapple juice
@@ -122,8 +128,13 @@ Obviously a Rum Last Word
 
 ### Gin F
  - 1 oz gin
- - 1 1/2 falernum
- - 1/2 lime juice
+ - 1 1/2 oz falernum
+ - 1/2 oz lime juice
+
+### Bramble
+ - 1 1/2 oz gin
+ - 3/4 oz lemon juice
+ - float 1/2 oz blackberry / rasberry liqueur
 
 ## Whiskey
 
