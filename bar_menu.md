@@ -51,6 +51,11 @@
  - 1 oz lime juice
  - 1/4 oz syrup
 
+### Barbados Cocktail
+ - 1 1/2 oz dark rum
+ - 1 oz falernum
+ - 3/4 oz lime juice
+
 ### Pineapple Daiquiri
  - 2 oz white rum
  - 3/4 oz lime juice
@@ -85,6 +90,13 @@ Obviously a Rum Last Word
  - 3/4 oz Green Chartreuse
  - 3/4 oz Maraschino liqueur
  - 3/4 oz lime juice
+
+### Lost Plane
+A riff on the Paper Plane
+ - 3/4 oz dark rum
+ - 3/4 oz aperol
+ - 3/4 oz amaro
+ - 3/4 oz lemon juice
 
 ## Gin
 
