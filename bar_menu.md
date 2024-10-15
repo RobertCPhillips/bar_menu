@@ -98,6 +98,12 @@ A riff on the Paper Plane
  - 3/4 oz amaro
  - 3/4 oz lemon juice
 
+
+### Barbados Cocktail
+ - 1 1/2 oz Dark Rum
+ - 1 oz Falernum
+ - 3/4 oz lime juice
+
 ## Gin
 
 ### Last Word
@@ -105,6 +111,13 @@ A riff on the Paper Plane
  - 3/4 oz green chartreuse
  - 3/4 oz maraschino liqueur
  - 3/4 oz lime juice 
+
+### Saturn
+ - 2 oz gin
+ - 3/4 oz lemon juice
+ - 1/2 oz passion fruit syrup
+ - 1/4 oz orgeat
+ - 1/4 oz falernum
 
 ### Gin Aperol Sour
  - 1 1/2 oz gin
