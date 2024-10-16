@@ -119,6 +119,11 @@ A riff on the Paper Plane
  - 1/4 oz orgeat
  - 1/4 oz falernum
 
+### Chambord Bramble
+ - 1 oz gin
+ - 1 oz lemon juice
+ - float 1 oz chambord
+
 ### Gin Aperol Sour
  - 1 1/2 oz gin
  - 3/4 oz aperol
@@ -156,11 +161,6 @@ A riff on the Paper Plane
  - 1 1/2 oz falernum
  - 1/2 oz lime juice
 
-### Chambord Bramble
- - 1 oz gin
- - 1 oz lemon juice
- - float 1 oz chambord
-
 ## Whiskey
 
 ### Paper Plane
@@ -168,6 +168,11 @@ A riff on the Paper Plane
  - 3/4 oz aperol
  - 3/4 oz Amaro Nonino Quintessentia
  - 3/4 oz lemon juice
+
+### Old Gal
+ - 1 1/2 oz rye
+ - 3/4 oz campari
+ - 3/4 oz bianco vermouth
 
 ## DIY
 
