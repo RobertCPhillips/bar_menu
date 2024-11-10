@@ -1,5 +1,31 @@
 # Robert's Awesome Bar Menu
 
+## Favorites
+
+### Margarita
+ - 2 oz agave spirit
+ - 1 oz orange liqueur
+ - 1 oz lime juice
+
+### Naked and Famous
+ - 3/4 oz mezcal
+ - 3/4 oz aperol
+ - 3/4 oz yellow Chartreuse
+ - 3/4 oz lime juice
+
+### 1944 Mai Tai
+ - 1 oz aged Jamaican Rum 
+ - 1 oz aged Martinique Rhum 
+ - 1 oz lime juice 
+ - 1/2 oz dry curacao 
+ - 1/2 oz orgeat
+
+### Paper Plane
+ - 3/4 oz bourbon
+ - 3/4 oz aperol
+ - 3/4 oz Amaro Nonino
+ - 3/4 oz lemon juice
+
 ## Tequila and Mezcal
 
 ### Margarita
@@ -98,11 +124,11 @@ A riff on the Paper Plane
  - 3/4 oz amaro
  - 3/4 oz lemon juice
 
-
-### Barbados Cocktail
- - 1 1/2 oz Dark Rum
- - 1 oz Falernum
- - 3/4 oz lime juice
+### Hurricane
+ - 2 oz rum
+ - 3/4 oz passion fruit syrup
+ - 1/2 oz lime juice
+ - 1/2 oz lemon juice
 
 ## Gin
 
@@ -166,13 +192,21 @@ A riff on the Paper Plane
 ### Paper Plane
  - 3/4 oz bourbon
  - 3/4 oz aperol
- - 3/4 oz Amaro Nonino Quintessentia
+ - 3/4 oz Amaro Nonino
  - 3/4 oz lemon juice
 
 ### Old Gal
  - 1 1/2 oz rye
  - 3/4 oz campari
  - 3/4 oz bianco vermouth
+
+### Paper Crane
+ - 1 oz bourbon
+ - 3/4 oz campari
+ - 3/4 oz Amaro Nonino
+ - 3/4 oz lemon juice
+ - 1 1/2 oz pineapple juice
+ - 1/4 syrup
 
 ## DIY
 
