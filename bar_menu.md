@@ -2,9 +2,9 @@
 
 ## Favorites
 
-### Margarita
+### Tommy's Margarita
  - 2 oz agave spirit
- - 1 oz orange liqueur
+ - 1/2 oz agave syrup
  - 1 oz lime juice
 
 ### Naked and Famous
@@ -33,6 +33,11 @@
  - 1 oz orange liqueur
  - 1 oz lime juice
 
+### Tommy's Margarita
+ - 2 oz agave spirit
+ - 1/2 oz agave syrup
+ - 1 oz lime juice
+
 ### Naked and Famous
  - 3/4 oz mezcal
  - 3/4 oz aperol
@@ -51,11 +56,6 @@
  - 1/4 oz maraschino liqueur
  - 3/4 oz lime juice
 
-### Tequila Matador
- - 1 1/2 oz tequila
- - 2 oz pineapple juice
- - 3/4 oz lime juice
-
 ## Rum and Rhum
 
 ### 1944 Mai Tai
@@ -64,13 +64,6 @@
  - 1 oz lime juice 
  - 1/2 oz dry curacao 
  - 1/2 oz orgeat
-
-### Well Oiled Mai Tai
- - 2 oz rum
- - 1/4 oz falernum
- - 1/2 oz orgeat
- - 3/4 oz lime juice
- - 2 dash angostura bitters
 
 ### Daiquiri
  - 2 oz light rum
@@ -82,53 +75,18 @@
  - 1 oz falernum
  - 3/4 oz lime juice
 
-### Pineapple Daiquiri
- - 2 oz white rum
- - 3/4 oz lime juice
- - 3/4 oz pineapple juice
- - 1/4 oz syrup
-
-### Hemingway Daiquiri
- - 2 oz rum
- - 3/4 oz lime juice
- - 1/2 oz grapefruit juice
- - 1/2 maraschino liqueur
- - 1/4 syrup
-
-### Jungle Bird
- - 1 1/2 oz rum
- - 3/4 oz campari
- - 1 1/2 oz pineapple juice
- - 1/2 lime juice
- - 1/4 oz syrup
-
-### "Light" Pina Colada (Shaken)
- - 2 oz light rum
- - 1 oz coconut milk
- - 1/2 oz cream of coconut
- - 1 1/2 oz pineapple juice
- - 1/2 oz lime juice
- - add about 6 ounces of pebble ice, shake and pour.
-
-### Wordsmith
-Obviously a Rum Last Word
- - 3/4 oz Jamaican Overprood Rum
- - 3/4 oz Green Chartreuse
- - 3/4 oz Maraschino liqueur
- - 3/4 oz lime juice
-
-### Lost Plane
-A riff on the Paper Plane
- - 3/4 oz dark rum
- - 3/4 oz aperol
- - 3/4 oz amaro
- - 3/4 oz lemon juice
-
 ### Hurricane
  - 2 oz rum
  - 3/4 oz passion fruit syrup
  - 1/2 oz lime juice
  - 1/2 oz lemon juice
+
+### Well Oiled Mai Tai
+ - 2 oz rum
+ - 1/4 oz falernum
+ - 1/2 oz orgeat
+ - 3/4 oz lime juice
+ - 2 dash angostura bitters
 
 ## Gin
 
@@ -145,49 +103,24 @@ A riff on the Paper Plane
  - 1/4 oz orgeat
  - 1/4 oz falernum
 
+### Corpse Reviver #2
+ - 3/4 oz dry gin
+ - 3/4 oz cochi americano
+ - 3/4 oz orange liqueur
+ - 3/4 oz lemon juice
+ - absinthe rinse
+
 ### Chambord Bramble
  - 1 oz gin
  - 1 oz lemon juice
  - float 1 oz chambord
-
-### Gin Aperol Sour
- - 1 1/2 oz gin
- - 3/4 oz aperol
- - 3/4 oz lemon juice
- - 3/4 oz egg white
- - dash of bitters
-
-### Enzoni
- - 1 oz gin
- - 1 oz campari
- - 3/4 oz lemon juice
- - 1/2 oz syrup
- - 5 white grapes muddled
-
-### Green Lady
- - 1 1/2 oz gin
- - 1/2 oz green Chartreuse
- - 1/2 oz lime juice
- - 1/2 oz egg white
-
-### White Lady
- - 2 oz gin
- - 1/2 oz orange liqueur 
- - 3/4 oz lemon juice
- - 1/2 oz egg white
-
-### Royal Hawaiian
- - 2 oz gin
- - 3/4 oz pineapple juice
- - 3/4 oz lemon juice
- - 1/2 oz orgeat
 
 ### Gin F
  - 1 oz gin
  - 1 1/2 oz falernum
  - 1/2 oz lime juice
 
-## Whiskey
+## Whiskey and Scotch
 
 ### Paper Plane
  - 3/4 oz bourbon
@@ -195,18 +128,23 @@ A riff on the Paper Plane
  - 3/4 oz Amaro Nonino
  - 3/4 oz lemon juice
 
+### Penicillin
+ - 2 oz blended scotch
+ - 3/4 oz lemon juice
+ - 3/4 oz honey-ginger syrup
+ - 1/4 oz Islay single malt scotch
+
+### W.G. Amaretto Sour
+ - 3/4 oz cask strength bourbon
+ - 1 1/2 oz amaretto
+ - 1 oz lemon juice
+ - 1 tsp syrup
+ - 1/2 oz egg white
+
 ### Old Gal
  - 1 1/2 oz rye
  - 3/4 oz campari
  - 3/4 oz bianco vermouth
-
-### Paper Crane
- - 1 oz bourbon
- - 3/4 oz campari
- - 3/4 oz Amaro Nonino
- - 3/4 oz lemon juice
- - 1 1/2 oz pineapple juice
- - 1/4 syrup
 
 ## DIY
 
