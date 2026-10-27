@@ -26,7 +26,7 @@
  - 3/4 oz Amaro Nonino
  - 3/4 oz lemon juice
 
-## Tequila and Mezcal
+## Agave
 
 ### Margarita
  - 2 oz tequila
@@ -47,7 +47,7 @@
 ### Oaxaca Old Fashioned
  - 1 1/2 oz reposado tequila
  - 1/2 oz mezcal
- - 1/4 oz barspoon agave nectar
+ - 1/4 oz agave nectar
  - 2 dashes Angostura bitters
 
 ### Division Bell
@@ -59,8 +59,8 @@
 ## Rum and Rhum
 
 ### 1944 Mai Tai
- - 1 oz aged Jamaican Rum 
- - 1 oz aged Martinique Rhum 
+ - 1 oz aged jamaican rum 
+ - 1 oz aged martinique rhum 
  - 1 oz lime juice 
  - 1/2 oz dry curacao 
  - 1/2 oz orgeat
@@ -109,6 +109,12 @@
  - 3/4 oz orange liqueur
  - 3/4 oz lemon juice
  - absinthe rinse
+
+### Aviation
+ - 2 oz gin
+ - 1/2 oz maraschino liqueur
+ - 1/4 oz creme de violette
+ - 3/4 oz lemon juice
 
 ### Chambord Bramble
  - 1 oz gin
